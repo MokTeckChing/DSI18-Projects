@@ -2,13 +2,15 @@
 
 ### Problem Statement
 
-What states should the colleage board focus funding on to increase participation rates in the future?
+Which states should the college board focus funding on to increase participation rates in the future?
 
 ### Executive Summary
 
 The format of the SATs was changed in 2016 to better reflect the academic curriculum of US high schools. 
 
 This notebook aims to determine if the format change improved participation rates for the SATs from 2017 to 2018 by cross-examining the data with the data from the ACTs, another national-level exam, from the same period. This notebook also aims to make recommendations on what states the colleage board should focus on in the future to imporve SAT participation rates.
+
+The data reveals that participation rates for the SATs are independant of SAT scores. Instead, they are dependant on state policy, which is in turn influenced by the political ideology of that state.
 
 ### Data Dictionary
 
@@ -39,4 +41,4 @@ This notebook aims to determine if the format change improved participation rate
 
 ### Conclusion
 
-It is recommended for the College Board to further examine "flipping" states that require mandatory ACT examinations into states taht require mandatory SAT examinations. 
+It is suggested that the College Board target left-leaning states that require a mandatory ACT examination, such as Nevada, Utah and Wisconsin, and attempt to "flip" them.
