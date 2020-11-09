@@ -27,7 +27,6 @@ The data reveals that participation rates for the SATs are independant of SAT sc
 |2017_ACT_reading|float|act_2017|Reading score for ACT 2017| 
 |2017_ACT_science|float|act_2017|Science score for ACT 2017| 
 |2017_ACT_composite |float|act_2017|Composite score for ACT 2017| 
-
 |2018_SAT_participation|float|sat_2018|participation percentage for SAT 2018| 
 |2018_SAT_ebrw|float|sat_2018|evidence-based reading and writing score for SAT 2018 | 
 |2018_SAT_math|float|sat_2018|Math score for SAT 2018| 
