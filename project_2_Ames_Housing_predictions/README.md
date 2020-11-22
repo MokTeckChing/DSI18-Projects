@@ -1,8 +1,8 @@
- ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 1: Ames Housing Sale Price Prediction
+ ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 2: Ames Housing Sale Price Prediction
 
 ### Problem Statement
 
-A real estate company in Ames, Iowa wants create an interactive webpage where potential clients could get a rough estimate of the sale price a house by entering a set of parameters.
+A real estate company in Ames, Iowa, wants create an interactive webpage where potential clients could get a rough estimate of the sale price a house by entering a set of parameters.
 
 The company is requresting for a regression model based on the Ames Housing Dataset that will predict the rough price of a house at sale, with no more than 25 features.
 
