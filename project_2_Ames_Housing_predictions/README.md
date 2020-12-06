@@ -4,7 +4,7 @@
 
 A real estate company in Ames, Iowa, wants create an interactive webpage where potential clients could get a rough estimate of the sale price a house by entering a set of parameters.
 
-The company is requresting for a regression model based on the Ames Housing Dataset that will predict the rough price of a house at sale, with no more than 25 features.
+The company is requesting for a regression model based on the Ames Housing Dataset that will predict the rough price of a house at sale, with no more than 25 features.
 
 As a requirement, the company has set up a Kaggle competition, and requested that scores be submitted there as a measure of accuracy.
 
