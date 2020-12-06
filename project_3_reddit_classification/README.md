@@ -22,7 +22,7 @@ As this is a classification model based on natural language processing, there is
 
 ### Conclusion
 
-After examination of the highest weighted features, it was theorized that there were several themes that significantly factored into causing someone to increase their maliciousness. Presence of hostile intent from the offending party is one such factor. Place of work/school was also another significant theme that was seen.
+After examination of the highest weighted features, it was theorized that there were several themes that significantly factored into causing someone to increase their maliciousness: Level of hostile intent from the offending party, level of desperation of the victim and forward planning for the revenge.
 
 Further research was suggested using several other "revenge" subreddits, such as r/nuclearrevenge, so that one's maliciousness can be determined on a scale rather than as a binary function.
 
