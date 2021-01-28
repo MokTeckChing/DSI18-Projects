@@ -1,5 +1,7 @@
 # Capstone Project - Drone Detection using YOLOv5
 
+<img src = "images/title.png">
+
 The ipython notebook is meant to be read in conjunction with <a href = "https://colab.research.google.com/drive/1KI_WCsNCKvP-nLvOPKc6DnrUh6_0aEPt?usp=sharing">this google colab notebook</a>.
 
 The final presentation can be found on google slides <a href = "https://docs.google.com/presentation/d/1HI6LjlMR3R_NN2q8LimoOgc7e9PM0F7g5RI7BUjOe8k/edit?usp=sharing">here</a>
